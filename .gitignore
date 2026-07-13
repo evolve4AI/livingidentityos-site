@@ -1,0 +1,11 @@
+.env
+.env.*
+*.key
+*.pem
+credentials*
+.DS_Store
+Thumbs.db
+desktop.ini
+.obsidian/
+.vscode/
+node_modules/
